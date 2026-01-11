@@ -15,7 +15,7 @@ spec:
       containers:
       - name: myapp
         # REPLACE YOUR_DOCKERHUB_USER BELOW
-        image: akshdeep1/myapp:latest 
+        image: akshdeep1/myapp:73a7dd7e9fd15836fac49f3d0c13e118e626901e
         ports:
         - containerPort: 3000
         resources:
